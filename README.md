@@ -1,43 +1,166 @@
 
-# Hey there, I'm Rahul Singh Bhandari 👋
+<!-- ===================== HEADER ===================== -->
 
-### 💻 B.Tech CSE Student | Full Stack Developer
+<h1 align="center">Hey 👋, I'm Rahul Singh Bhandari</h1>
 
-Building projects, solving problems, and learning something new every day.
+<h3 align="center">
+  B.Tech CSE Student | Full Stack Developer | Problem Solver
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Java+%7C+JavaScript+%7C+Python;Building+Projects+and+Learning;Turning+Ideas+Into+Code" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/bhandarirahulsingh">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Learning-2ea44f?style=for-the-badge" alt="Learning"/>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering student
-- 💻 Interested in Full Stack Web Development
-- 🧠 Practicing Data Structures & Algorithms
-- 🌱 Always learning and improving my development skills
-- 🎯 Focused on building practical projects
+- 🎓 Pursuing B.Tech in Computer Science Engineering at Graphic Era Hill University.
+- 💻 Interested in Full Stack Web Development and Software Engineering.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🌱 Learning new technologies and building practical projects.
+- 🚀 Interested in creating useful, reliable and user-friendly applications.
+- 🤝 Open to learning, collaboration and development opportunities.
 
-## 🛠️ Tech Stack
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 💻 Technical Skills
 
-## 🌟 Featured Projects
+### 👨‍💻 Programming Languages
 
-- **[CodeVamp](https://github.com/bhandarirahulsingh/Vodevamp)** — Coding platform project
-- **[JobprepAI](https://github.com/bhandarirahulsingh/JobPrepAI)** — Interview preparation project
-- **[Crushers-UI](https://github.com/bhandarirahulsingh/Crushers-UI)** — UI project
-- **[Facial Hair Recommendation](https://github.com/bhandarirahulsingh/Facial-Hair-Recommendation-)** — Facial hair recommendation project
-- **[Shortest Path Finder](https://github.com/bhandarirahulsingh/Shortest-Path-Finder-)** — Pathfinding project
-- **[Gym Website](https://github.com/bhandarirahulsingh/Gym-Website-)** — Gym website project
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python" alt="Java, JavaScript and Python"/>
+</p>
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="Frontend technologies"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis" alt="Database technologies"/>
+</p>
+
+### ☁️ Cloud & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vercel" alt="Cloud and development tools"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. CodeVamp
+
+A coding and problem-solving platform project.
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-CodeVamp-181717?style=for-the-badge&logo=github)](https://github.com/bhandarirahulsingh/Vodevamp)
+
+### 2. JobprepAI
+
+An interview preparation project.
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-JobprepAI-181717?style=for-the-badge&logo=github)](https://github.com/bhandarirahulsingh/JobPrepAI)
+
+### 3. Jobhub
+
+A job portal project.
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-Jobhub-181717?style=for-the-badge&logo=github)](https://github.com/bhandarirahulsingh/Jobhub)
+
+### 4. Facial Hair Recommendation
+
+A facial hair recommendation project.
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-Facial%20Hair%20Recommendation-181717?style=for-the-badge&logo=github)](https://github.com/bhandarirahulsingh/Facial-Hair-Recommendation-)
+
+### 5. Shortest Path Finder
+
+A project focused on finding paths between locations or nodes.
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-Shortest%20Path%20Finder-181717?style=for-the-badge&logo=github)](https://github.com/bhandarirahulsingh/Shortest-Path-Finder-)
+
+### 6. Crushers-UI
+
+A user interface development project.
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-Crushers--UI-181717?style=for-the-badge&logo=github)](https://github.com/bhandarirahulsingh/Crushers-UI)
+
+### 7. Gym Website
+
+A website project for a gym.
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-Gym%20Website-181717?style=for-the-badge&logo=github)](https://github.com/bhandarirahulsingh/Gym-Website-)
+
+---
+
+## 📚 Core Computer Science
+
+- Data Structures and Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhandarirahulsingh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhandarirahulsingh&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhandarirahulsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 Achievements & Goals
+
+- 💡 Building projects to improve software development skills.
+- 🧩 Practicing coding problems on online coding platforms.
+- 🏁 Participating in college and national-level hackathons.
+- 📈 Continuously improving problem-solving abilities.
+- 🎯 Working towards becoming a skilled software developer.
+
+---
 
 ## 🤝 Connect With Me
 
-- GitHub: [@bhandarirahulsingh](https://github.com/bhandarirahulsingh)
+<p align="center">
+  <a href="https://github.com/bhandarirahulsingh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+<p align="center">
+  <b>Thanks for visiting my profile! 💙</b>
+  <br/>
+  <i>Keep learning, keep building, and keep growing.</i>
+</p>
